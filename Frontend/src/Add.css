@@ -1,0 +1,37 @@
+input{
+    margin-top: 1rem;
+    border-radius: 7px;
+    box-shadow: 2px 2px rgb(225, 210, 210);
+}
+select{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+button{
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.add{
+    color:white;
+    background-color: rgb(13, 202, 82);
+    box-shadow: 1px 1px grey;
+    border:none
+}
+.reset{
+
+    color:white;
+    background-color: red;
+    box-shadow: 1px 1px grey;
+    border:none;
+    
+}
+.handel{
+    color:white;
+    background-color: blue;
+    box-shadow: 1px 1px grey;
+    border: none;
+}
+h3{
+    margin-left: 600px;
+    color:aqua
+}

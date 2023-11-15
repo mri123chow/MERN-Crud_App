@@ -1,0 +1,15 @@
+input[type="submit"]{
+
+    background-color: rgb(23, 219, 23);
+    color:white;
+    border: none;
+    margin-left: 5.5rem;
+
+}
+
+input[type="email"]{
+    margin-left: 2rem;
+}
+input[type="password"]{
+    margin-left: 2rem;
+}

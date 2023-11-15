@@ -1,0 +1,20 @@
+button{
+    margin-top: 1rem;
+    margin-left: 4rem;
+    border: none;
+    color: white;
+    background-color: green;
+    
+}
+p{
+    margin-top: 2rem;
+}
+input[type="text"]{
+    margin-left: 2rem;
+}
+h6{
+    color: red;
+}
+h5{
+    color:green;
+}

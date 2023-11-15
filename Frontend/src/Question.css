@@ -1,0 +1,35 @@
+a{
+    color:brown;
+}
+h2{
+    color:green
+}
+.deletebtn{
+    background-color: red;
+}
+h5{
+    color:red;
+}
+ .action{
+    margin-left: 200px;
+    
+    color: brown;
+}
+.update{
+    background-color: cornflowerblue;
+}
+.question{
+    color:coral
+}
+.ques{
+    color:blueviolet;
+    font-weight: bold;
+}
+.answer{
+    color:green;
+    font-weight: bolder;
+}
+.ans{
+    color:indigo;
+    font-weight: bolder;
+}
